@@ -1,2 +1,12 @@
 ---
 # tasks file for roles/nomad
+
+# TODO: variable for nomad version
+# TODO: variable for system type
+# TODO: Download binary
+# TODO: Unzip and copy to location
+# TODO: Create templates
+# TODO: If server create server config file
+# TODO: If client create client config file
+# TODO: Create systemd file
+# TODO: start service
